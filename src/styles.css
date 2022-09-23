@@ -1,0 +1,75 @@
+.container {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.cities {
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 25px 20px;
+}
+
+.enter-a-city {
+    padding: 0;
+    vertical-align: center;
+}
+
+h1 {
+    margin: 20px 20px 0;
+}
+
+ul {
+    margin: 0 20px;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+img.main-icon {
+    height: 90px;
+    margin: 30px 0 30px 20px;
+    text-align: center;
+    width: 90px;
+}
+
+.temperature {
+    color: rgb(33, 33, 33);
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 1;
+    margin-left: 20px;
+}
+
+.units {
+    position: relative;
+    top: -34px;
+}
+
+.position-windy-humidity {
+    font-size: 15px;
+    line-height: 30px;
+    margin-bottom: 40px;
+    padding-top: 120px;
+}
+
+.forecast-day {
+    line-height: 30px;
+    padding: 0 0 20px 0;;
+    text-align: center;
+}
+
+img.everyday {
+    height: 25px;
+    width: 25px;
+}
+
+
+
+
+
+
+
